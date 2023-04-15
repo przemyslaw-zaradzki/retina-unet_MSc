@@ -8,7 +8,7 @@ Link to the paper: https://www.mdpi.com/1424-8220/23/4/1870
 
 The dataset **CAVRI-C** used by the software is available free of charge at: http://dsp.org.pl/CAVRI_Database/191/ 
 
-Example of three fundus reconstructions with ground truth and corresponding segmentation results for 4 neural networks (analyzed in the paper above):
+Example of three fundus reconstructions with ground truth and corresponding segmentation results for 5 neural networks (analyzed in the paper above):
 
 ![](test/OCT_blood_vessels_segmentation.png)
 
